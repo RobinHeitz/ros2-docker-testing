@@ -1,5 +1,6 @@
 ARG ROS_DISTRO=humble
-FROM osrf/ros:${ROS_DISTRO}-desktop-full
+FROM ros:${ROS_DISTRO}
+
 
 
 ARG WORKSPACE=ros2_dev_ws
