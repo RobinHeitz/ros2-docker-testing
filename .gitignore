@@ -1,5 +1,11 @@
-ros2_dev_ws/build
-ros2_dev_ws/install
-ros2_dev_ws/log
+# ros2_dev_ws/build
+# ros2_dev_ws/install
+# ros2_dev_ws/log
 
-ros2_dev_ws/src/py_pubsub/test/*
+# ros2_dev_ws/src/py_pubsub/test/*
+
+
+*/build/*
+*/install/*
+*/log/*
+*/site/*
